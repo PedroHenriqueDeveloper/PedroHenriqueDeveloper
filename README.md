@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @PedroHenriqueDeveloper
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+I am a passionate and dedicated front-end developer, gaining experience in HTML, CSS and JavaScript. My professional journey has been marked by a commitment to creating engaging and accessible web experiences through responsive design and advanced front-end development techniques.
+
+With solid skills in HTML5, CSS3 and JavaScript, I have been able to transform creative concepts into interactive and visually appealing interfaces. My experience includes developing responsive websites, ensuring a consistent experience across different devices and platforms.
+
+Furthermore, I master frameworks such as jQuery, expanding my capabilities to create dynamic and functional interactions. My user-focused approach and attention to detail have allowed me to learn a lot in the last few months that I have been studying.
+
+I am constantly seeking to improve my skills and keep up with the latest trends in front-end development, and soon back-end, in order to offer innovative and effective solutions. I am excited to collaborate on challenging projects and contribute to the success of dynamic teams.
+
+If you are looking for a front-end developer, passionate about technology and committed to excellence, I am ready to bring my energy and dedication to your team. Let's work together to create exceptional and inspiring web experiences.
+--->
